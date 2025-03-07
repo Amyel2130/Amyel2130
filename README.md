@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amyel2130
+- 👋 Hi, I’m @Amyel
 - 👀 I’m interested in Full Stack Development and WordPress
 - 🌱 I’m currently learning Fullstack
 - 💞️ I’m looking to collaborate on more projects related to frontend and backend
